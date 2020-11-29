@@ -24,6 +24,6 @@ to interact with camera or screen. Neural net verilog description is located in 
 
 ## Device
 To recreate the device you need 3 components:
-* [De0Nano board](http://www.ti.com/lit/ug/tidu737/tidu737.pdf) or DE10Standard
+* [De0Nano board](http://www.ti.com/lit/ug/tidu737/tidu737.pdf) or [DE10Standard](https://www.intel.com/content/dam/altera-www/global/en_US/portal/dsn/42/doc-us-dsnbk-42-5505271707235-de10-standard-user-manual-sm.pdf)
 * [Camera OV7670](https://www.voti.nl/docs/OV7670.pdf) (~7$)
 * [Display ILI9341](https://cdn-shop.adafruit.com/datasheets/ILI9341.pdf) (~7$)
