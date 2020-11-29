@@ -1,9 +1,6 @@
 # Verilog Generator of Neural Net Digit Detector for FPGA
 
-It's the project which train neural net to detect dark digits on light background. Then neural net converted to
-verilog HDL representation using several techniques to reduce needed resources on FPGA and increase speed of processing. Code is
-production ready to use in real device. It can be easily extended to be used with detection of other objects with
-different neural net structure.
+The lab report is located in the "doc" folder.
 
 ## Requirements
 Python 3.5, Tensorflow 1.4.0, Keras 2.1.3
@@ -14,9 +11,6 @@ Python 3.5, Tensorflow 1.4.0, Keras 2.1.3
 * python r03_find_optimal_bit_for_weights.py
 * python r04_verilog_generator_grayscale_file.py
 * python r05_verilog_generator_neural_net_structure.py
-
-Verilog already added in repository in ''verilog'' folder. It has everything you need including all code
-to interact with camera or screen. Neural net verilog description is located in ''verliog/code/neuroset'' folder.
 
 ## Neural net structure
 
